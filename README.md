@@ -8,16 +8,6 @@ Harmony Vet is a cutting-edge veterinary application designed specifically for t
 
 ---
 
-### Features of Harmony Vet
-
-- **24/7 Veterinary Support**: Connect with experienced veterinarians anytime, anywhere.
-- **Health Monitoring**: Track the health status of each cow with regular updates and alerts.
-- **Vaccination Schedules**: Receive reminders and manage vaccination schedules efficiently.
-- **Nutritional Advice**: Get tailored nutritional plans to ensure the optimal health and productivity of your cows.
-- **Medical Records**: Maintain a detailed medical history for each animal for easy reference and better healthcare management.
-
----
-
 ### Pricing Plans
 
 **Basic Plan**
@@ -58,7 +48,6 @@ Join the many farmers in Chad who are transforming their livestock management wi
 
 **Contact Us**
 - Email: support@harmonyvet.com
-- Phone: +235 69 34 07 36
 - Address: Avenue Charles de Gaulle, N'Djamena, Chad
 
 **Follow Us on Social Media**

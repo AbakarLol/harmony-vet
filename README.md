@@ -8,31 +8,8 @@ Harmony Vet is a cutting-edge veterinary application designed specifically for t
 
 ---
 
-### Pricing Plans
 
-**Basic Plan**
-- 24/7 Veterinary Support
-- Health Monitoring
-- Monthly Health Reports
-- Cost: 10,000 XAF per month
-
-**Standard Plan**
-- Everything in Basic Plan
-- Vaccination Schedules
-- Nutritional Advice
-- Bi-Weekly Health Reports
-- Cost: 15,000 XAF per month
-
-**Premium Plan**
-- Everything in Standard Plan
-- Comprehensive Medical Records
-- Weekly Health Reports
-- Priority Support
-- Cost: 20,000 XAF per month
-
----
-
-### Persuasive Testimony
+### Testimony
 
 **Farmer Testimonial**
 
